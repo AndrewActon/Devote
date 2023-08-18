@@ -14,6 +14,7 @@
 		BFAF40932A900BD900C6B0D8 /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFAF40922A900BD900C6B0D8 /* Persistence.swift */; };
 		BFAF40962A900BD900C6B0D8 /* Devote.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = BFAF40942A900BD900C6B0D8 /* Devote.xcdatamodeld */; };
 		BFAF409D2A900C5E00C6B0D8 /* Sound in Resources */ = {isa = PBXBuildFile; fileRef = BFAF409C2A900C5E00C6B0D8 /* Sound */; };
+		BFAF40A92A90195600C6B0D8 /* Constant.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFAF40A82A90195600C6B0D8 /* Constant.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		BFAF40952A900BD900C6B0D8 /* Devote.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Devote.xcdatamodel; sourceTree = "<group>"; };
 		BFAF409C2A900C5E00C6B0D8 /* Sound */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Sound; sourceTree = "<group>"; };
 		BFAF40A32A900CF900C6B0D8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		BFAF40A82A90195600C6B0D8 /* Constant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constant.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 		BFAF40A02A900C9A00C6B0D8 /* Utility */ = {
 			isa = PBXGroup;
 			children = (
+				BFAF40A82A90195600C6B0D8 /* Constant.swift */,
 			);
 			path = Utility;
 			sourceTree = "<group>";
@@ -191,6 +194,7 @@
 			files = (
 				BFAF40932A900BD900C6B0D8 /* Persistence.swift in Sources */,
 				BFAF408C2A900BD800C6B0D8 /* ContentView.swift in Sources */,
+				BFAF40A92A90195600C6B0D8 /* Constant.swift in Sources */,
 				BFAF40962A900BD900C6B0D8 /* Devote.xcdatamodeld in Sources */,
 				BFAF408A2A900BD800C6B0D8 /* DevoteApp.swift in Sources */,
 			);
