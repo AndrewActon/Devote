@@ -15,6 +15,7 @@
 		BFAF40962A900BD900C6B0D8 /* Devote.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = BFAF40942A900BD900C6B0D8 /* Devote.xcdatamodeld */; };
 		BFAF409D2A900C5E00C6B0D8 /* Sound in Resources */ = {isa = PBXBuildFile; fileRef = BFAF409C2A900C5E00C6B0D8 /* Sound */; };
 		BFAF40A92A90195600C6B0D8 /* Constant.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFAF40A82A90195600C6B0D8 /* Constant.swift */; };
+		BFAF40AB2A902B2200C6B0D8 /* HideKeyboardExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFAF40AA2A902B2200C6B0D8 /* HideKeyboardExtension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		BFAF409C2A900C5E00C6B0D8 /* Sound */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Sound; sourceTree = "<group>"; };
 		BFAF40A32A900CF900C6B0D8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		BFAF40A82A90195600C6B0D8 /* Constant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constant.swift; sourceTree = "<group>"; };
+		BFAF40AA2A902B2200C6B0D8 /* HideKeyboardExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HideKeyboardExtension.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +95,7 @@
 		BFAF409F2A900C9300C6B0D8 /* Extension */ = {
 			isa = PBXGroup;
 			children = (
+				BFAF40AA2A902B2200C6B0D8 /* HideKeyboardExtension.swift */,
 			);
 			path = Extension;
 			sourceTree = "<group>";
@@ -194,6 +197,7 @@
 			files = (
 				BFAF40932A900BD900C6B0D8 /* Persistence.swift in Sources */,
 				BFAF408C2A900BD800C6B0D8 /* ContentView.swift in Sources */,
+				BFAF40AB2A902B2200C6B0D8 /* HideKeyboardExtension.swift in Sources */,
 				BFAF40A92A90195600C6B0D8 /* Constant.swift in Sources */,
 				BFAF40962A900BD900C6B0D8 /* Devote.xcdatamodeld in Sources */,
 				BFAF408A2A900BD800C6B0D8 /* DevoteApp.swift in Sources */,
