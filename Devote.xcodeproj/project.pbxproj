@@ -68,6 +68,7 @@
 		BFAF40882A900BD800C6B0D8 /* Devote */ = {
 			isa = PBXGroup;
 			children = (
+				BFAF40892A900BD800C6B0D8 /* DevoteApp.swift */,
 				BFAF40A32A900CF900C6B0D8 /* Info.plist */,
 				BFAF409E2A900C8800C6B0D8 /* View */,
 				BFAF40A22A900CA800C6B0D8 /* Model */,
@@ -75,7 +76,6 @@
 				BFAF40A02A900C9A00C6B0D8 /* Utility */,
 				BFAF409F2A900C9300C6B0D8 /* Extension */,
 				BFAF409C2A900C5E00C6B0D8 /* Sound */,
-				BFAF40892A900BD800C6B0D8 /* DevoteApp.swift */,
 				BFAF408D2A900BD900C6B0D8 /* Assets.xcassets */,
 				BFAF408F2A900BD900C6B0D8 /* Preview Content */,
 			);
